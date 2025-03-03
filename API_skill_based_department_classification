@@ -1,0 +1,970 @@
+[
+   {
+        "text": "Intellectual Property, Regulatory Compliance, Mediation, Labor Law, Family Law, Contract Review",
+        "label": "Law department"
+    },
+    {
+        "text": "Cyber Law, Personal Injury Law, Negotiation, Client Counseling, Legal Ethics, Corporate Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Risk Management, Product Liability, Entertainment Law, Personal Injury Law, Constitutional Law, Administrative Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Personal Injury Law, Family Law, Public Interest Law, Legal Project Management, Case Management, Negotiation",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Risk Management, Entertainment Law, Corporate Law, Constitutional Law, White-Collar Crime, Labor Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Environmental Law, Case Management, Public Interest Law, Energy Law, Litigation, Employment Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Constitutional Law, International Law, Employment Law, Legal Compliance, Environmental Law, Trial Advocacy",
+        "label": "Law department"
+    },
+    {
+        "text": "Alternative Dispute Resolution, Environmental Law, Sports Law, Personal Injury Law, Civil Litigation, Corporate Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Education Law, Litigation, Estate Planning, Energy Law, Entertainment Law, Corporate Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Consumer Protection, Legal Research, Mediation, Public Speaking, Litigation, Administrative Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Research, Litigation, Criminal Defense, Mediation, Regulatory Compliance, Personal Injury Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Client Counseling, Contract Review, Tax Law, Municipal Law, Insurance Law, Education Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Sports Law, Negotiation, Public Interest Law, International Law, Client Counseling, Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Analytics, Labor Law, Bankruptcy Law, Cyber Law, Municipal Law, Military Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Maritime Law, Litigation, Consumer Protection, Personal Injury Law, Case Management, Immigration Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Family Law, Mergers & Acquisitions, Case Management, Military Law, Aviation Law, Legal Risk Management",
+        "label": "Law department"
+    },
+    {
+        "text": "Regulatory Compliance, International Law, Trial Advocacy, Legal Research, Securities Law, Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": "Criminal Defense, Administrative Law, Appellate Practice, Commercial Litigation, Tax Law, White-Collar Crime",
+        "label": "Law department"
+    },
+    {
+        "text": "Immigration Law, Maritime Law, Labor Law, Case Management, Commercial Litigation, Trial Advocacy",
+        "label": "Law department"
+    },
+    {
+        "text": "Estate Planning, Aviation Law, Mediation, Regulatory Compliance, Energy Law, Antitrust Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Military Law, Case Management, Drafting Legal Documents, Corporate Law, Labor Law, Sports Law",
+        "label": "Law department"
+    },
+    {
+        "text": " Intellectual Property, Administrative Law, Legal Risk Management, Criminal Defense, Healthcare Law, Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": " Maritime Law, Appellate Practice, Legal Research, Legal Analytics, Case Management, Entertainment Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Mergers & Acquisitions, Human Rights Law, Appellate Practice, Case Management, Consumer Protection, Client Counseling",
+        "label": "Law department"
+    },
+    {
+        "text": "Commercial Litigation, Healthcare Law, Litigation, Appellate Practice, Antitrust Law, Legal Project Management",
+        "label": "Law department"
+    },
+    {
+        "text": "International Law, White-Collar Crime, Healthcare Law, Alternative Dispute Resolution, Cyber Law, Legal Technology",
+        "label": "Law department"
+    },
+   {
+        "text": "Alternative Dispute Resolution, Personal Injury Law, Municipal Law, Healthcare Law, Aviation Law, Environmental Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Drafting Legal Documents, Legal Risk Management, Bankruptcy Law, Antitrust Law, Legal Ethics, Negotiation",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Research, Municipal Law, Tax Law, Client Counseling, Litigation, Aviation Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Product Liability, Constitutional Law, Legal Compliance, Real Estate Law, Family Law, Immigration Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Family Law, Litigation, Real Estate Law, Public Speaking, Military Law, Personal Injury Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Product Liability, Intellectual Property, Commercial Litigation, Sports Law, Labor Law, Energy Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Employment Law, Immigration Law, Drafting Legal Documents, Case Management, Contract Review, Entertainment Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Healthcare Law, Legal Compliance, Labor Law, Cyber Law, Estate Planning, Real Estate Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Education Law, Public Speaking, Trial Advocacy, Administrative Law, Antitrust Law, Civil Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": "Human Rights Law, Aviation Law, Sports Law, Corporate Law, Case Management, Trial Advocacy",
+        "label": "Law department"
+    },
+    {
+        "text": "International Law, Drafting Legal Documents, Product Liability, Legal Risk Management, Contract Review, Estate Planning",
+        "label": "Law department"
+    },
+    {
+        "text": "Administrative Law, Securities Law, Corporate Law, Legal Analytics, Trial Advocacy, Negotiation",
+        "label": "Law department"
+    },
+    {
+        "text": "Intellectual Property, Employment Law, Legal Ethics, Maritime Law, International Law, Regulatory Compliance",
+        "label": "Law department"
+    },
+    {
+        "text": "Municipal Law, Aviation Law, Maritime Law, Legal Compliance, Case Management, Commercial Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": "Arbitration, Entertainment Law, Alternative Dispute Resolution, Municipal Law, Environmental Law, Human Rights Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Risk Management, Entertainment Law, Immigration Law, Legal Research, Sports Law, Military Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Legal Research, Product Liability, Litigation, Sports Law, Corporate Law, Appellate Practice",
+        "label": "Law department"
+    },
+    {
+        "text": "Appellate Practice, Sports Law, Environmental Law, Litigation, Constitutional Law, Civil Litigation",
+        "label": "Law department"
+    },
+    {
+        "text": "Trial Advocacy, Family Law, Legal Project Management, Military Law, Antitrust Law, Sports Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Arbitration, Family Law, Intellectual Property, Municipal Law, Antitrust Law, Consumer Protection",
+        "label": "Law department"
+    },
+    {
+        "text": "Insurance Law, Human Rights Law, Energy Law, Employment Law, Legal Compliance, White-Collar Crime",
+        "label": "Law department"
+    },
+    {
+        "text": "Real Estate Law, Public Speaking, Labor Law, Arbitration, Legal Project Management, Tax Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Tax Law, Consumer Protection, Employment Law, Bankruptcy Law, International Law, Labor Law",
+        "label": "Law department"
+    },
+   {
+        "text": "Contract Review, Litigation, Client Counseling, Negotiation, Drafting Legal Documents, Case Management, Regulatory Compliance, Public Speaking",
+        "label": "Law department"
+    },
+    {
+        "text": "Criminal Defense, Trial Advocacy, Legal Research, Legal Writing, Appellate Practice, Mediation, Arbitration, Legal Ethics",
+        "label": "Law department"
+    },
+    {
+        "text": "Intellectual Property, Patent Law, Trademark Law, Copyright Law, Trade Secrets, Licensing Agreements, Technology Transactions, Data Privacy",
+        "label": "Law department"
+    },
+    {
+        "text": "Corporate Law, Mergers & Acquisitions, Securities Law, Corporate Governance, Venture Capital, Private Equity, Corporate Finance, Commercial Contracts",
+        "label": "Law department"
+    },
+    {
+        "text": "Employment Law, Labor Relations, Workplace Discrimination, Wrongful Termination, Employee Benefits, Wage and Hour Law, Occupational Safety, Workers' Compensation",
+        "label": "Law department"
+    },
+    {
+        "text": "Real Estate Law, Property Development, Zoning and Land Use, Environmental Compliance, Leasing Agreements, Real Estate Finance, Construction Law, Eminent Domain",
+        "label": "Law department"
+    },
+    {
+        "text": "Tax Law, Tax Planning, Tax Controversy, International Tax, State and Local Tax, Estate Tax, Gift Tax, Tax-Exempt Organizations",
+        "label": "Law department"
+    },
+    {
+        "text": "Immigration Law, Visa Applications, Asylum Law, Deportation Defense, Citizenship Applications, Employment-Based Immigration, Family-Based Immigration, Humanitarian Relief",
+        "label": "Law department"
+    },
+    {
+        "text": "Family Law, Divorce, Child Custody, Child Support, Alimony, Prenuptial Agreements, Adoption, Domestic Violence",
+        "label": "Law department"
+    },
+    {
+        "text": "Environmental Law, Climate Change Law, Energy Regulation, Natural Resources Law, Pollution Control, Waste Management, Environmental Impact Assessment, Renewable Energy Law",
+        "label": "Law department"
+    },
+    {
+        "text": "Healthcare Law, Medical Malpractice, Healthcare Compliance, Healthcare Regulations, Telemedicine, Healthcare Fraud, Healthcare Privacy, Healthcare Policy",
+        "label": "Law department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Skills: Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Skills: Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Skills: Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Skills: Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Auditing, Internal Controls Evaluation, Risk Management, Compliance Testing, Fraud Investigation, Data Analytics, Audit Methodologies, Audit Automation",
+        "label": "Audit department"
+    },
+    {
+        "text": "Regulatory Reporting, Internal Audit Procedures, External Audit Standards, Financial Reporting, Operational Audits, Forensic Accounting, Tax Compliance Audits, IT Systems Auditing",
+        "label": "Audit department"
+    },
+    {
+        "text": "Process Auditing, Quality Control, Control Environment Assessment, Audit Documentation, Audit Sampling Techniques, Analytical Procedures, Substantive Testing, Audit Trail Analysis",
+        "label": "Audit department"
+    },
+    {
+        "text": "Financial Statement Preparation, Audit Opinion Formation, Ethical Auditing Practices, Audit Software Proficiency, Audit Team Leadership, Client Communication, Audit Findings Reporting, Audit Risk Assessment",
+        "label": "Audit department"
+    },
+    {
+        "text": "Audit Quality Assurance, Audit Procedure Development, Audit Evidence Evaluation, Audit Conclusions and Reporting, Audit Fieldwork, Audit Workpaper Preparation, Audit Supervision, Audit Engagement Planning",
+        "label": "Audit department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text":"Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Support, Tax Risk Management, International Tax, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Excel proficiency, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Excel proficiency, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Skills: Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Excel proficiency, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Excel proficiency, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Excel proficiency, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Excel proficiency, Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Excel proficiency, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Value-Added Tax (VAT), Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax,Excel proficiency, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax,Excel proficiency, Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Excel proficiency, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Planning, Tax Compliance, Tax Audit Defense, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Direct Taxes, Corporate Tax, Personal Tax, Excel proficiency, Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Tax Reporting, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Excel proficiency, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Tax Training, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+     {
+        "text": "Tax Planning, Tax Compliance, Excel proficiency, Tax Risk Management, International Taxation, Transfer Pricing, Tax Policy Analysis, Tax Technology Solutions",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Indirect Taxes, Excel proficiency, Corporate Tax, Personal Tax, Excel proficiency, Goods and Services Tax (GST), Customs and Excise Duties, Excise Taxes",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Accounting, Excel proficiency, Tax Dispute Resolution, Tax Incentives, Mergers & Acquisitions Tax, Cross-Border Taxation, Tax Treaty Interpretation, Tax Regulatory Compliance",
+        "label": "Tax advisory department"
+    },
+    {
+        "text": "Tax Data Management, Tax Process Automation, Tax Advisory Services, Tax Strategy Development, Excel proficiency, Tax Technology Implementation, Tax Function Optimization, Tax Risk Assessment",
+        "label": "Tax advisory department"
+    },
+   {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Pyhon Programming, Java Development, C++ Programming, C# Programming, JavaScript Development, SQL Databases, NoSQL Databases, Data Analysis",
+        "label": "IT department"
+    },
+    {
+        "text": "Machine Learning with PyTorch, Deep Learning with TensorFlow, Natural Language Processing with Hugging Face, Cloud Computing with AWS, Cloud Computing with Azure, Cloud Computing with Google Cloud, Cybersecurity Protocols, Network Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Encryption, Blockchain Technology, DevOps Practices, CI/CD Pipelines, Agile Methodologies, Scrum Framework, Microservices Architecture, Containerization with Docker",
+        "label": "IT department"
+    },
+    {
+        "text": "Orchestration with Kubernetes, API Development, RESTful Services, GraphQL, Mobile App Development, Frontend Development with React, Backend Development with Node.js, Full-Stack Development",
+        "label": "IT department"
+    },
+    {
+        "text": "Automated Testing, Unit Testing, Integration Testing, Performance Testing, Data Visualization with Tableau, Data Visualization with Power BI, Big Data with Hadoop, Big Data with Spark",
+        "label": "IT department"
+    },
+    {
+        "text": "Azure DevOps, CI/CD Pipelines, Cloud Security, Microservices with Kubernetes, Terraform, Ansible, Docker Swarm, Jenkins Automation",
+        "label": "IT department"
+    },
+    {
+        "text": "SAP HANA, Oracle Cloud ERP, Salesforce Development, Workday Integration, Microsoft Dynamics 365, PeopleSoft, Oracle E-Business Suite",
+        "label": "IT department"
+    },
+    {
+        "text": "Python Programming, R for Data Science, Machine Learning with Scikit-Learn, Statistical Analysis, Predictive Modeling, Data Cleaning, Feature Engineering",
+        "label": "IT department"
+    },
+    {
+        "text": "Ethical Hacking, Penetration Testing, Security Information and Event Management (SIEM), Intrusion Detection Systems (IDS), Vulnerability Assessment, Firewalls, Endpoint Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Business Intelligence, Dashboard Development, Report Automation, SQL Server Integration Services (SSIS), Data Warehousing, ETL Processes, OLAP Cubes",
+        "label": "IT department"
+    },
+    {
+        "text": "Robotic Process Automation (RPA), UiPath, Automation Anywhere, Blue Prism, Workflow Automation, Process Optimization, Digital Transformation",
+        "label": "IT department"
+    },
+    {
+        "text": "IT Project Management, Prince2, Project Planning, Risk Management, Stakeholder Communication, Budget Management, Resource Allocation",
+        "label": "IT department"
+    },
+    {
+        "text": "Cloud Infrastructure Management, AWS Architecture, Google Cloud Platform (GCP) Services, Azure Virtual Machines, Cloud Cost Optimization, Disaster Recovery",
+        "label": "IT department"
+    },
+    {
+        "text": "Full-Stack Development, MERN Stack, LAMP Stack, MEAN Stack, Progressive Web Apps, Responsive Design, REST APIs, Microfrontend Architecture",
+        "label": "IT department"
+    },
+    {
+        "text": "Internet of Things (IoT), Sensor Networks, Embedded Systems, Edge Computing, MQTT Protocol, Smart Home Technology, IoT Security",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Science with Python, Machine Learning with TensorFlow, Deep Learning with PyTorch, Natural Language Processing, Computer Vision, Data Pipelines",
+        "label": "IT department"
+    },
+    {
+        "text": "Digital Marketing, SEO Optimization, Google Analytics, Social Media Advertising, Content Management Systems (CMS), Email Marketing, PPC Campaigns",
+        "label": "IT department"
+    },
+    {
+        "text": "IT Audit, Compliance Management, SOC 2 Reporting, ISO 27001, GDPR Compliance, Risk Assessment, Internal Controls",
+        "label": "IT department"
+    },
+    {
+        "text": "Mobile App Development, iOS Development with Swift, Android Development with Kotlin, Cross-Platform Development with Flutter, Mobile UI/UX Design",
+        "label": "IT department"
+    },
+    {
+        "text": "Database Administration, Oracle DBA, SQL Server Administration, PostgreSQL, Database Performance Tuning, Backup and Recovery, Database Security",
+        "label": "IT department"
+    },
+    {
+        "text": "DevOps Engineering, CI/CD Tools, Configuration Management, Infrastructure as Code, Continuous Deployment, Monitoring and Logging, Incident Response",
+        "label": "IT department"
+    },
+    {
+        "text": "Cloud-Native Development, Serverless Computing, Kubernetes Operators, Service Mesh with Istio, Containerization with Docker, API Gateway, Cloud Functions",
+        "label": "IT department"
+    },
+    {
+        "text": "Big Data Engineering, Hadoop Ecosystem, Apache Spark, Data Lakes, Data Streaming with Kafka, Data Partitioning, NoSQL Databases",
+        "label": "IT department"
+    },
+    {
+        "text": "Software Quality Assurance, Test Automation with Selenium, Manual Testing, Performance Testing with JMeter, Test Case Design, Defect Tracking",
+        "label": "IT department"
+    },
+    {
+        "text": "Blockchain Development, Smart Contracts with Solidity, Ethereum, Hyperledger Fabric, Decentralized Applications (DApps), Cryptography, Distributed Ledgers",
+        "label": "IT department"
+    },
+    {
+        "text": "Network Administration, Cisco Networking, Juniper Networks, Network Configuration, VLANs, Network Monitoring, Load Balancing",
+        "label": "IT department"
+    },
+    {
+        "text": "ERP Implementation, SAP S/4HANA, Microsoft Dynamics 365, Oracle ERP Cloud, Business Process Reengineering, Change Management, ERP Customization",
+        "label": "IT department"
+    },
+    {
+        "text": "Agile Software Development, Scrum Master Certification, Kanban, Lean Software Development, User Stories, Backlog Management, Sprint Planning",
+        "label": "IT department"
+    },
+    {
+        "text": "IT Service Management, ITIL Framework, Incident Management, Problem Management, Service Level Agreements (SLAs), Change Management, ITSM Tools",
+        "label": "IT department"
+    },
+    {
+        "text": "Frontend Development, React.js, Vue.js, Angular, HTML/CSS, JavaScript ES6, Webpack, CSS Preprocessors (Sass/Less)",
+        "label": "IT department"
+    },
+    {
+        "text": "Data Visualization, Power BI, Tableau, D3.js, Plotly, Data Storytelling, Interactive Dashboards, Report Design",
+        "label": "IT department"
+    },
+    {
+        "text": "Web Development, HTML5, CSS3, JavaScript, PHP, Laravel, ASP.NET, Ruby on Rails, Web Performance Optimization",
+        "label": "IT department"
+    },
+    {
+        "text": "IT Operations Management, Network Operations Center (NOC), Data Center Management, IT Asset Management, IT Infrastructure Library (ITIL), Service Desk",
+        "label": "IT department"
+    },
+    {
+        "text": "Cybersecurity Architecture, Zero Trust Model, Identity and Access Management (IAM), Security Operations Center (SOC), Threat Hunting, Incident Response",
+        "label": "IT department"
+    },
+    {
+        "text": "Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, AI Ethics, Explainable AI",
+        "label": "IT department"
+    },
+    {
+        "text": "IT Consulting, Technology Strategy, IT Roadmap Development, Digital Transformation, IT Budgeting, Vendor Management, Solution Architecture",
+        "label": "IT department"
+    }   
+]
+
+
+
+
