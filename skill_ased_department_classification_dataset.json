@@ -1,0 +1,967 @@
+[
+    {
+        "text": "Network Security, Firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Secure Network Architecture, Network Segmentation, Network Access Control (NAC), Network Traffic Analysis",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Endpoint Security, Antivirus Software, Endpoint Detection and Response (EDR), Mobile Device Management (MDM), Endpoint Encryption, Endpoint Threat Detection, Endpoint Vulnerability Management, Endpoint Incident Response",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Cloud Security, Cloud Access Security Brokers (CASB), Cloud Security Posture Management (CSPM), Cloud Identity and Access Management (IAM), Cloud Data Protection, Cloud Security Compliance, Cloud Security Monitoring, Cloud Security Incident Response",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Application Security, Secure Software Development Lifecycle (SDLC), Application Vulnerability Assessment, Application Penetration Testing, Secure Code Review, Application Security Testing (AST), Web Application Firewalls (WAF), Application Security Monitoring",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Identity and Access Management (IAM), Multi-Factor Authentication (MFA), Single Sign-On (SSO), Identity Governance and Administration (IGA), Privileged Access Management (PAM), Identity Lifecycle Management, Identity Federation, Identity Analytics",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Data Security, Data Encryption, Data Loss Prevention (DLP), Data Masking, Data Classification, Data Integrity, Data Privacy, Data Security Compliance",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Operations, Security Information and Event Management (SIEM), Security Orchestration Automation and Response (SOAR), Threat Hunting, Incident Response, Security Monitoring, Security Analytics, Security Operations Center (SOC)",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Threat Intelligence, Threat Intelligence Platforms (TIP), Threat Intelligence Feeds, Threat Analysis, Threat Attribution, Threat Hunting, Threat Intelligence Sharing, Threat Intelligence Reporting",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Vulnerability Management, Vulnerability Scanning, Patch Management, Vulnerability Assessment, Vulnerability Remediation, Vulnerability Prioritization, Vulnerability Reporting, Vulnerability Management Tools",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Risk Management, Risk Assessment, Risk Mitigation, Risk Analysis, Risk Reporting, Risk Monitoring, Risk Compliance, Risk Management Frameworks",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Compliance and Governance, Regulatory Compliance, Compliance Audits, Compliance Reporting, Compliance Monitoring, Governance Frameworks, Policy Development, Policy Enforcement, Compliance Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Awareness Training, Phishing Simulations, Security Training Programs, Security Awareness Campaigns, Security Culture Development, Security Training Metrics, Security Training Content Development, Security Training Tools",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Incident Response, Incident Response Planning, Incident Response Procedures, Incident Response Tools, Incident Response Training, Incident Response Drills, Incident Response Reporting, Incident Response Coordination",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Forensics, Digital Forensics, Forensic Analysis, Forensic Tools, Forensic Reporting, Forensic Investigation, Forensic Evidence Collection, Forensic Incident Response",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Penetration Testing, Penetration Testing Tools, Penetration Testing Methodologies, Penetration Testing Reporting, Penetration Testing Planning, Penetration Testing Execution, Penetration Testing Analysis, Penetration Testing Remediation",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Architecture, Security Design, Security Frameworks, Security Blueprints, Security Patterns, Security Controls, Security Architecture Review, Security Architecture Documentation",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Cryptography, Encryption Algorithms, Cryptographic Protocols, Cryptographic Key Management, Cryptographic Standards, Cryptographic Libraries, Cryptographic Implementation, Cryptographic Analysis",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Policy Development, Security Policy Writing, Security Policy Review, Security Policy Implementation, Security Policy Compliance, Security Policy Training, Security Policy Communication, Security Policy Enforcement",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Auditing, Security Audit Planning, Security Audit Execution, Security Audit Reporting, Security Audit Tools, Security Audit Compliance, Security Audit Follow-Up, Security Audit Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Metrics, Security Measurement, Security Metrics Development, Security Metrics Reporting, Security Metrics Analysis, Security Metrics Tools, Security Metrics Communication, Security Metrics Improvement",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Automation, Security Automation Tools, Security Automation Frameworks, Security Automation Implementation, Security Automation Monitoring, Security Automation Reporting, Security Automation Improvement, Security Automation Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Testing, Security Testing Tools, Security Testing Methodologies, Security Testing Planning, Security Testing Execution, Security Testing Reporting, Security Testing Analysis, Security Testing Remediation",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Monitoring, Security Monitoring Tools, Security Monitoring Frameworks, Security Monitoring Implementation, Security Monitoring Reporting, Security Monitoring Analysis, Security Monitoring Improvement, Security Monitoring Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Analytics, Security Analytics Tools, Security Analytics Frameworks, Security Analytics Implementation, Security Analytics Reporting, Security Analytics Analysis, Security Analytics Improvement, Security Analytics Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Orchestration, Security Orchestration Tools, Security Orchestration Frameworks, Security Orchestration Implementation, Security Orchestration Monitoring, Security Orchestration Reporting, Security Orchestration Improvement, Security Orchestration Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Compliance, Security Compliance Tools, Security Compliance Frameworks, Security Compliance Implementation, Security Compliance Monitoring, Security Compliance Reporting, Security Compliance Improvement, Security Compliance Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Governance, Security Governance Tools, Security Governance Frameworks, Security Governance Implementation, Security Governance Monitoring, Security Governance Reporting, Security Governance Improvement, Security Governance Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Risk Management, Security Risk Management Tools, Security Risk Management Frameworks, Security Risk Management Implementation, Security Risk Management Monitoring, Security Risk Management Reporting, Security Risk Management Improvement, Security Risk Management Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Incident Management, Security Incident Management Tools, Security Incident Management Frameworks, Security Incident Management Implementation, Security Incident Management Monitoring, Security Incident Management Reporting, Security Incident Management Improvement, Security Incident Management Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Threat Management, Security Threat Management Tools, Security Threat Management Frameworks, Security Threat Management Implementation, Security Threat Management Monitoring, Security Threat Management Reporting, Security Threat Management Improvement, Security Threat Management Training",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "SIEM Tools, Splunk, IBM QRadar, ArcSight, LogRhythm, AlienVault, McAfee Enterprise Security Manager, RSA NetWitness, Sumo Logic",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Endpoint Protection Platforms (EPP), Symantec Endpoint Protection, McAfee Endpoint Security, Trend Micro Apex One, Sophos Intercept X, CrowdStrike Falcon, Carbon Black, SentinelOne, Kaspersky Endpoint Security",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Cloud Security Solutions, AWS Security Hub, Azure Security Center, Google Cloud Security Command Center, Palo Alto Networks Prisma Cloud, Check Point CloudGuard, Cisco Cloudlock, Fortinet FortiGate VM, Trend Micro Deep Security",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Identity and Access Management (IAM) Tools, Okta, Ping Identity, Microsoft Azure AD, IBM Security Identity Governance and Intelligence, SailPoint, ForgeRock, RSA SecurID, OneLogin",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Data Loss Prevention (DLP) Solutions, Symantec DLP, McAfee Total Protection for DLP, Forcepoint DLP, Digital Guardian, Trend Micro DLP, Check Point DLP, Sophos DLP, Cisco Umbrella",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Web Application Firewalls (WAF), Imperva, Akamai Kona Site Defender, F5 BIG-IP ASM, Cloudflare WAF, Barracuda WAF, Citrix ADC, AWS WAF, Fortinet FortiWeb",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Threat Intelligence Platforms, Recorded Future, ThreatConnect, Anomali, ThreatQuotient, IBM X-Force Exchange, FireEye Threat Intelligence, Palo Alto Networks AutoFocus, CrowdStrike Threat Intelligence",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Vulnerability Management Tools, Tenable Nessus, Rapid7 Nexpose, QualysGuard, OpenVAS, GFI LanGuard, Tripwire IP360, BeyondTrust Retina, Acunetix",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Network Security Tools, Cisco ASA, Palo Alto Networks Next-Generation Firewall, Check Point Firewall, Juniper SRX, Fortinet FortiGate, SonicWall, WatchGuard, Barracuda Networks",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Incident Response Tools, IBM Resilient, Palo Alto Networks Cortex XSOAR, Splunk Phantom, FireEye Helix, Rapid7 InsightIDR, LogRhythm, Cyber Triage, Cofense Triage",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Orchestration, Automation, and Response (SOAR) Tools, Splunk Phantom, IBM Resilient, Palo Alto Networks Cortex XSOAR, Demisto, Siemplify, Swimlane, D3 Security, LogRhythm",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Endpoint Detection and Response (EDR) Tools, CrowdStrike Falcon, Carbon Black Response, SentinelOne, FireEye Endpoint Security, Symantec Endpoint Detection and Response, McAfee MVISION EDR, Trend Micro Apex One, Cybereason",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Mobile Device Management (MDM) Solutions, VMware Workspace ONE, Microsoft Intune, MobileIron, BlackBerry UEM, Citrix Endpoint Management, IBM MaaS360, SOTI MobiControl, Jamf Pro",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Encryption Tools, VeraCrypt, BitLocker, Symantec Endpoint Encryption, McAfee Complete Data Protection, Sophos SafeGuard, Trend Micro Endpoint Encryption, Check Point Full Disk Encryption, AxCrypt",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Configuration Management Tools, Tripwire Enterprise, Chef InSpec, Puppet, Ansible, SaltStack, CIS-CAT Pro, Microsoft Security Compliance Toolkit, Qualys Policy Compliance",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Awareness Training Platforms, KnowBe4, Cofense PhishMe, Proofpoint Security Awareness Training, Wombat Security, Infosec IQ, SANS Security Awareness, MediaPRO, Terranova Security",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Digital Forensics Tools, EnCase, FTK (Forensic Toolkit), X-Ways Forensics, Magnet AXIOM, Cellebrite, Autopsy, SIFT Workstation, ProDiscover",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Penetration Testing Tools, Metasploit, Burp Suite, Nessus, Wireshark, Nmap, OWASP ZAP, Kali Linux, Core Impact",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Information and Event Management (SIEM) Tools, Splunk, IBM QRadar, ArcSight, LogRhythm, AlienVault, McAfee Enterprise Security Manager, RSA NetWitness, Sumo Logic",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Policy Management Tools, AlgoSec, FireMon, Tufin, Skybox Security, RedSeal, Cisco Security Manager, Palo Alto Networks Panorama, Check Point SmartConsole",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Compliance Management Tools, Qualys Compliance Suite, Rapid7 InsightVM, Tenable.io, Tripwire Enterprise, Symantec Control Compliance Suite, IBM OpenPages, RSA Archer, MetricStream",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Risk Management Tools, RiskLens, RSA Archer, MetricStream, LogicManager, Resolver, RiskWatch, Lockpath, RiskVision",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Governance Tools, RSA Archer, MetricStream, LogicManager, Resolver, Lockpath, RiskVision, IBM OpenPages, SAP GRC",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Threat Management Tools, FireEye Threat Intelligence, Palo Alto Networks AutoFocus, CrowdStrike Threat Intelligence, Recorded Future, ThreatConnect, Anomali, ThreatQuotient, IBM X-Force Exchange",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Incident Management Tools, IBM Resilient, Palo Alto Networks Cortex XSOAR, Splunk Phantom, FireEye Helix, Rapid7 InsightIDR, LogRhythm, Cyber Triage, Cofense Triage",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Automation Tools, Splunk Phantom, IBM Resilient, Palo Alto Networks Cortex XSOAR, Demisto, Siemplify, Swimlane, D3 Security, LogRhythm",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Monitoring Tools, SolarWinds, Nagios, PRTG Network Monitor, Zabbix, ManageEngine OpManager, Datadog, LogicMonitor, Splunk",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Analytics Tools, Splunk, IBM QRadar, ArcSight, LogRhythm, Sumo Logic, Devo, Exabeam, Rapid7 InsightIDR",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Testing Tools, Metasploit, Burp Suite, Nessus, Wireshark, Nmap, OWASP ZAP, Kali Linux, Core Impact",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "Security Orchestration Tools, Splunk Phantom, IBM Resilient, Palo Alto Networks Cortex XSOAR, Demisto, Siemplify, Swimlane, D3 Security, LogRhythm",
+        "label": "Cyber Security"
+    },
+    {
+        "text": "SAP S/4HANA, SAP Fiori, SAP Business Suite, SAP ERP Central Component (ECC), SAP HANA, SAP Business Warehouse (BW), SAP BusinessObjects, SAP Solution Manager",
+        "label": "ERP"
+    },
+    {
+        "text": "Oracle ERP Cloud, Oracle E-Business Suite, Oracle Fusion Middleware, Oracle Hyperion, Oracle PeopleSoft, Oracle JD Edwards, Oracle Financials, Oracle Procurement",
+        "label": "ERP"
+    },
+    {
+        "text": "Microsoft Dynamics 365, Microsoft Dynamics AX, Microsoft Dynamics NAV, Microsoft Dynamics GP, Microsoft Power Platform, Microsoft Power BI, Microsoft Azure, Microsoft SQL Server",
+        "label": "ERP"
+    },
+    {
+        "text": "Infor CloudSuite, Infor LN, Infor M3, Infor SyteLine, Infor XA, Infor ION, Infor Birst, Infor OS",
+        "label": "ERP"
+    },
+    {
+        "text": "Workday Financial Management, Workday Human Capital Management (HCM), Workday Adaptive Planning, Workday Prism Analytics, Workday Cloud Platform, Workday Payroll, Workday Recruiting, Workday Learning",
+        "label": "ERP"
+    },
+    {
+        "text": "NetSuite ERP, NetSuite OneWorld, NetSuite CRM, NetSuite SuiteCommerce, NetSuite SuiteAnalytics, NetSuite SuiteFlow, NetSuite SuiteTalk, NetSuite SuiteScript",
+        "label": "ERP"
+    },
+    {
+        "text": "Epicor ERP, Epicor Kinetic, Epicor Prophet 21, Epicor Eclipse, Epicor BisTrack, Epicor iScala, Epicor Mattec, Epicor Advanced MES",
+        "label": "ERP"
+    },
+    {
+        "text": "Sage X3, Sage Intacct, Sage 100cloud, Sage 300cloud, Sage Business Cloud, Sage Fixed Assets, Sage HRMS, Sage CRM",
+        "label": "ERP"
+    },
+    {
+        "text": "IFS Applications, IFS Cloud, IFS Field Service Management, IFS Maintenance, IFS Manufacturing, IFS Supply Chain, IFS Human Capital Management, IFS Financials",
+        "label": "ERP"
+    },
+    {
+        "text": "Acumatica Cloud ERP, Acumatica Financial Management, Acumatica Distribution Management, Acumatica Manufacturing Edition, Acumatica Project Accounting, Acumatica Construction Edition, Acumatica Field Service Edition, Acumatica CRM",
+        "label": "ERP"
+    },
+    {
+        "text": "QAD Adaptive ERP, QAD Cloud ERP, QAD Enterprise Applications, QAD Automation Solutions, QAD Precision, QAD Supplier Portal, QAD Cloud EDI, QAD Cloud QMS",
+        "label": "ERP"
+    },
+    {
+        "text": "Deltek Costpoint, Deltek Vision, Deltek Maconomy, Deltek Ajera, Deltek Vantagepoint, Deltek Workbook, Deltek Talent Management, Deltek Project Information Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Unit4 ERP, Unit4 Business World, Unit4 Financials, Unit4 Human Capital Management, Unit4 Student Management, Unit4 Professional Services Automation, Unit4 Prevero, Unit4 Travel & Expenses",
+        "label": "ERP"
+    },
+    {
+        "text": "SYSPRO ERP, SYSPRO Manufacturing, SYSPRO Distribution, SYSPRO Financials, SYSPRO Analytics, SYSPRO Supply Chain Management, SYSPRO CRM, SYSPRO Enterprise Reporting",
+        "label": "ERP"
+    },
+    {
+        "text": "Plex ERP, Plex Manufacturing Cloud, Plex MES, Plex Quality Management System, Plex Supply Chain Management, Plex Financial Management, Plex Analytics, Plex HR",
+        "label": "ERP"
+    },
+    {
+        "text": "Odoo ERP, Odoo CRM, Odoo Accounting, Odoo Inventory, Odoo Manufacturing, Odoo Project Management, Odoo eCommerce, Odoo HR",
+        "label": "ERP"
+    },
+    {
+        "text": "SAP SuccessFactors, SAP Ariba, SAP Concur, SAP Fieldglass, SAP Integrated Business Planning (IBP), SAP Leonardo, SAP Analytics Cloud, SAP Customer Experience (CX)",
+        "label": "ERP"
+    },
+    {
+        "text": "Oracle NetSuite, Oracle SCM Cloud, Oracle HCM Cloud, Oracle CX Cloud, Oracle EPM Cloud, Oracle Analytics Cloud, Oracle Autonomous Database, Oracle Blockchain Platform",
+        "label": "ERP"
+    },
+    {
+        "text": "Microsoft Power Automate, Microsoft Power Apps, Microsoft Power Virtual Agents, Microsoft Dynamics 365 Finance, Microsoft Dynamics 365 Supply Chain Management, Microsoft Dynamics 365 Sales, Microsoft Dynamics 365 Customer Service, Microsoft Dynamics 365 Marketing",
+        "label": "ERP"
+    },
+    {
+        "text": "Infor Mongoose, Infor Coleman AI, Infor Nexus, Infor Birst, Infor CloudSuite Industrial, Infor CloudSuite Financials, Infor CloudSuite HCM, Infor CloudSuite SCM",
+        "label": "ERP"
+    },
+    {
+        "text": "Workday Prism Analytics, Workday Adaptive Insights, Workday Cloud Platform, Workday Financial Management, Workday Human Capital Management, Workday Payroll, Workday Recruiting, Workday Learning",
+        "label": "ERP"
+    },
+    {
+        "text": "NetSuite SuiteSuccess, NetSuite Advanced Customer Support, NetSuite SuitePeople, NetSuite SuiteBilling, NetSuite SuiteProjects, NetSuite SuiteCommerce InStore, NetSuite SuiteAnalytics Workbook, NetSuite SuiteFlow",
+        "label": "ERP"
+    },
+    {
+        "text": "Epicor Data Analytics, Epicor Advanced MES, Epicor Mattec, Epicor Prophet 21, Epicor Eclipse, Epicor BisTrack, Epicor iScala, Epicor Kinetic",
+        "label": "ERP"
+    },
+    {
+        "text": "Sage Business Cloud Enterprise Management, Sage Fixed Assets, Sage HRMS, Sage Intacct, Sage 100cloud, Sage 300cloud, Sage X3, Sage CRM",
+        "label": "ERP"
+    },
+    {
+        "text": "IFS Applications, IFS Cloud, IFS Field Service Management, IFS Maintenance, IFS Manufacturing, IFS Supply Chain, IFS Human Capital Management, IFS Financials",
+        "label": "ERP"
+    },
+    {
+        "text": "Acumatica Cloud ERP, Acumatica Financial Management, Acumatica Distribution Management, Acumatica Manufacturing Edition, Acumatica Project Accounting, Acumatica Construction Edition, Acumatica Field Service Edition, Acumatica CRM",
+        "label": "ERP"
+    },
+    {
+        "text": "QAD Adaptive ERP, QAD Cloud ERP, QAD Enterprise Applications, QAD Automation Solutions, QAD Precision, QAD Supplier Portal, QAD Cloud EDI, QAD Cloud QMS",
+        "label": "ERP"
+    },
+    {
+        "text": "Deltek Costpoint, Deltek Vision, Deltek Maconomy, Deltek Ajera, Deltek Vantagepoint, Deltek Workbook, Deltek Talent Management, Deltek Project Information Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Unit4 ERP, Unit4 Business World, Unit4 Financials, Unit4 Human Capital Management, Unit4 Student Management, Unit4 Professional Services Automation, Unit4 Prevero, Unit4 Travel & Expenses",
+        "label": "ERP"
+    },
+    {
+        "text": "SYSPRO ERP, SYSPRO Manufacturing, SYSPRO Distribution, SYSPRO Financials, SYSPRO Analytics, SYSPRO Supply Chain Management, SYSPRO CRM, SYSPRO Enterprise Reporting",
+        "label": "ERP"
+    }, 
+    {
+        "text": "SAP S/4HANA, SAP Fiori, SAP BW/4HANA, SAP SuccessFactors, SAP Ariba, SAP Concur, SAP Fieldglass, SAP Analytics Cloud",
+        "label": "ERP"
+    },
+    {
+        "text": "Oracle ERP Cloud, Oracle HCM Cloud, Oracle SCM Cloud, Oracle EPM Cloud, Oracle CX Cloud, Oracle Analytics Cloud, Oracle Integration Cloud, Oracle Blockchain Platform",
+        "label": "ERP"
+    },
+    {
+        "text": "Microsoft Dynamics 365 Finance, Microsoft Dynamics 365 Supply Chain Management, Microsoft Dynamics 365 Commerce, Microsoft Dynamics 365 Human Resources, Microsoft Power Platform, Microsoft Azure, Microsoft Power BI, Microsoft Power Automate",
+        "label": "ERP"
+    },
+    {
+        "text": "Workday Financial Management, Workday HCM, Workday Prism Analytics, Workday Adaptive Planning, Workday Strategic Sourcing, Workday Procurement, Workday Expenses, Workday Projects",
+        "label": "ERP"
+    },
+    {
+        "text": "Infor LN, Infor M3, Infor EAM, Infor d/EPM, Infor OS, Infor CPQ, Infor Supplier Exchange, Infor GT Nexus",
+        "label": "ERP"
+    },
+    {
+        "text": "NetSuite ERP, NetSuite OneWorld, NetSuite CRM, NetSuite SuiteCommerce, NetSuite OpenAir, NetSuite SuitePeople, NetSuite SuiteAnalytics, NetSuite SuiteCloud Platform",
+        "label": "ERP"
+    },
+    {
+        "text": "Sage Intacct, Sage X3, Sage 100cloud, Sage 300cloud, Sage People, Sage Enterprise Intelligence, Sage Fixed Assets, Sage Inventory Advisor",
+        "label": "ERP"
+    },
+    {
+        "text": "IFS Applications, IFS Cloud, IFS Maintenix, IFS Field Service Management, IFS Enterprise Operational Intelligence, IFS Planning & Scheduling Optimization, IFS Enterprise Asset Management, IFS Human Capital Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Epicor ERP, Epicor Prophet 21, Epicor iScala, Epicor BisTrack, Epicor CMS, Epicor Mattec MES, Epicor Advanced MES, Epicor Data Analytics",
+        "label": "ERP"
+    },
+    {
+        "text": "Syspro ERP, Syspro Supply Chain Management, Syspro Manufacturing Operations Management, Syspro Financial Management, Syspro Distribution Management, Syspro Business Intelligence, Syspro Enterprise Asset Management, Syspro Human Resources",
+        "label": "ERP"
+    },
+    {
+        "text": "Deltek Costpoint, Deltek Maconomy, Deltek Vision, Deltek WorkBook, Deltek Ajera, Deltek Vantagepoint, Deltek Talent Management, Deltek Project Information Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Aptean ERP, Aptean Ross ERP, Aptean Made2Manage ERP, Aptean Encompix ERP, Aptean Intuitive ERP, Aptean Cimnet ERP, Aptean Activplant MES, Aptean Factory MES",
+        "label": "ERP"
+    },
+    {
+        "text": "Unit4 ERP, Unit4 Business World, Unit4 Financial Management, Unit4 Human Capital Management, Unit4 Procurement Management, Unit4 Project Management, Unit4 Performance Management, Unit4 Reporting and Analytics",
+        "label": "ERP"
+    },
+    {
+        "text": "QAD ERP, QAD Adaptive ERP, QAD Automation Solutions, QAD Cloud ERP, QAD DynaSys DSCP, QAD Enterprise Asset Management, QAD Supplier Portal, QAD Trade Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Ramco ERP, Ramco Global Payroll, Ramco HCM, Ramco Aviation M&E MRO, Ramco Logistics Software, Ramco Asset Management, Ramco Analytics, Ramco Enterprise Process Automation",
+        "label": "ERP"
+    },
+    {
+        "text": "Acumatica Cloud ERP, Acumatica Distribution Edition, Acumatica Manufacturing Edition, Acumatica Commerce Edition, Acumatica Field Service Edition, Acumatica Construction Edition, Acumatica CRM, Acumatica Reporting and Analytics",
+        "label": "ERP"
+    },
+    {
+        "text": "Rootstock Cloud ERP, Rootstock Salesforce Manufacturing Cloud, Rootstock Supply Chain Management, Rootstock Inventory Management, Rootstock Engineering Change Management, Rootstock Cost Management, Rootstock Project Control, Rootstock Compliance Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Kenandy Cloud ERP, Kenandy Supply Chain Management, Kenandy Manufacturing Management, Kenandy Inventory Management, Kenandy Order Management, Kenandy Financial Management, Kenandy Project Management, Kenandy Analytics",
+        "label": "ERP"
+    },
+    {
+        "text": "Plex Smart Manufacturing Platform, Plex ERP, Plex MES, Plex Supply Chain Planning, Plex Industrial IoT, Plex Supplier Portal, Plex Analytics, Plex Quality Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Cin7 Inventory Management, Cin7 Order Management, Cin7 Manufacturing, Cin7 Warehouse Management, Cin7 EDI, Cin7 3PL, Cin7 POS, Cin7 B2B",
+        "label": "ERP"
+    },
+    {
+        "text": "Odoo ERP, Odoo CRM, Odoo Sales, Odoo Accounting, Odoo Inventory, Odoo Manufacturing, Odoo Purchase, Odoo Human Resources",
+        "label": "ERP"
+    },
+    {
+        "text": "SAP Business One, SAP Business ByDesign, SAP BusinessObjects BI, SAP Crystal Reports, SAP Analytics Cloud for SMB, SAP Concur for SMB, SAP SuccessFactors for SMB, SAP Ariba for SMB",
+        "label": "ERP"
+    },
+    {
+        "text": "Oracle NetSuite ERP, Oracle NetSuite CRM, Oracle NetSuite PSA, Oracle NetSuite SRP, Oracle NetSuite SuiteCommerce, Oracle NetSuite OneWorld, Oracle NetSuite Analytics, Oracle NetSuite Planning and Budgeting",
+        "label": "ERP"
+    },
+    {
+        "text": "Microsoft Dynamics 365 Business Central, Microsoft Dynamics GP, Microsoft Dynamics NAV, Microsoft Dynamics SL, Microsoft Power BI for SMB, Microsoft Power Automate for SMB, Microsoft Power Apps for SMB, Microsoft Azure for SMB",
+        "label": "ERP"
+    },
+    {
+        "text": "Infor CloudSuite Industrial, Infor CloudSuite Business, Infor CloudSuite Corporate, Infor CloudSuite HCM, Infor CloudSuite FSM, Infor CloudSuite PLM, Infor CloudSuite EAM, Infor CloudSuite CRM",
+        "label": "ERP"
+    },
+    {
+        "text": "Workday ERP, Workday Financial Management, Workday HCM, Workday Prism Analytics, Workday Adaptive Planning, Workday Procurement, Workday Expenses, Workday Projects",
+        "label": "ERP"
+    },
+    {
+        "text": "Sage ERP X3, Sage 100cloud, Sage 300cloud, Sage Intacct, Sage People, Sage Enterprise Intelligence, Sage Fixed Assets, Sage Inventory Advisor",
+        "label": "ERP"
+    },
+    {
+        "text": "IFS Cloud, IFS Applications, IFS Maintenix, IFS Field Service Management, IFS Enterprise Operational Intelligence, IFS Planning & Scheduling Optimization, IFS Enterprise Asset Management, IFS Human Capital Management",
+        "label": "ERP"
+    },
+    {
+        "text": "Epicor Kinetic, Epicor Prophet 21, Epicor iScala, Epicor BisTrack, Epicor CMS, Epicor Mattec MES, Epicor Advanced MES, Epicor Data Analytics",
+        "label": "ERP"
+    },
+    {
+        "text": "Syspro ERP, Syspro Supply Chain Management, Syspro Manufacturing Operations Management, Syspro Financial Management, Syspro Distribution Management, Syspro Business Intelligence, Syspro Enterprise Asset Management, Syspro Human Resources",
+        "label": "ERP"
+    },
+    {
+        "text": "Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Predictive Analytics, Data Mining, Statistical Modeling, AI Ethics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Python Programming, R Programming, SQL, Data Visualization, Big Data Technologies, Cloud Computing, Data Engineering, Data Warehousing",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "TensorFlow, Proficiency in PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GAN), Reinforcement Learning, Transfer Learning, Autoencoders, Transformers",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Hadoop, Spark, Hive, Pig, HBase, Kafka, Flink, Data Lakes",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AWS, Azure, Google Cloud Platform, Data Storage Solutions, Cloud Security, Serverless Architecture, Containerization, Microservices",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Explainable AI, Fairness in AI, Bias Mitigation, Privacy-Preserving Techniques, Responsible AI, Ethical AI Frameworks, AI Governance, AI Regulations",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Time Series Analysis, Forecasting, Anomaly Detection, Clustering, Classification, Regression, Dimensionality Reduction, Feature Engineering",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "A/B Testing, Experimental Design, Hypothesis Testing, Bayesian Statistics, Survival Analysis, Causal Inference, Meta-Analysis, Multivariate Statistics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Data Wrangling, Data Cleaning, Data Transformation, Data Integration, ETL Processes, Data Pipelines, Data Quality Management, Data Governance",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Tableau, Power BI, QlikView, D3.js, Plotly, Bokeh, Data Storytelling, Interactive Dashboards",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Robotic Process Automation (RPA), Intelligent Automation, AI-Driven Workflows, Automated Decision Making, AI Bots, Virtual Assistants, Chatbots, Conversational AI",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "IoT Data Analysis, Edge Computing, Real-Time Data Processing, Streaming Analytics, Sensor Data Integration, Predictive Maintenance, Industrial AI",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Blockchain for AI, Decentralized AI, Federated Learning, Differential Privacy, Homomorphic Encryption, Secure Multiparty Computation, AI in Cybersecurity",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Healthcare, Precision Medicine, Medical Imaging Analysis, Drug Discovery, Clinical Trial Optimization, Patient Outcome Prediction, Healthcare Data Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Finance, Fraud Detection, Credit Scoring, Algorithmic Trading, Risk Management, Portfolio Optimization, Financial Forecasting, Regulatory Compliance",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Retail, Customer Segmentation, Personalized Recommendations, Inventory Optimization, Demand Forecasting, Price Optimization, Customer Churn Prediction, Sentiment Analysis",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Manufacturing, Predictive Maintenance, Quality Control, Supply Chain Optimization, Demand Planning, Inventory Management, Production Scheduling, Yield Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Customer Service, Customer Support Automation, Sentiment Analysis, Customer Feedback Analysis, Customer Lifetime Value Prediction, Customer Segmentation, Churn Prediction",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Marketing, Customer Segmentation, Targeted Advertising, Campaign Optimization, Customer Lifetime Value, Churn Prediction, Sentiment Analysis, Social Media Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Human Resources, Candidate Screening, Employee Performance Prediction, Employee Retention, Sentiment Analysis, Workforce Planning, Talent Acquisition, Employee Engagement",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Education, Personalized Learning, Student Performance Prediction, Curriculum Recommendations, Adaptive Testing, Intelligent Tutoring Systems, Educational Data Mining",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Transportation, Route Optimization, Predictive Maintenance, Traffic Prediction, Autonomous Vehicles, Fleet Management, Demand Forecasting, Supply Chain Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Agriculture, Precision Farming, Crop Yield Prediction, Disease Detection, Soil Analysis, Livestock Management, Weather Forecasting, Supply Chain Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Energy, Energy Demand Forecasting, Renewable Energy Integration, Grid Optimization, Predictive Maintenance, Energy Trading, Smart Meter Analytics, Energy Efficiency",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Environmental Science, Climate Modeling, Wildlife Conservation, Air Quality Prediction, Water Resource Management, Natural Disaster Prediction, Sustainability Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Media and Entertainment, Content Recommendation, Sentiment Analysis, Audience Segmentation, Box Office Prediction, Social Media Analytics, Content Generation, Personalized Advertising",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Public Sector, Policy Analysis, Citizen Sentiment Analysis, Fraud Detection, Public Safety, Smart Cities, Urban Planning, Traffic Management",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Sports, Player Performance Analysis, Injury Prediction, Game Strategy Optimization, Fan Engagement, Ticket Pricing, Social Media Analytics, Broadcasting Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Real Estate, Property Valuation, Market Trend Analysis, Customer Segmentation, Lead Scoring, Predictive Maintenance, Energy Efficiency, Smart Building Management, Hugging Face Libraries",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Proficiency in Python, R, SQL, Data Wrangling, Data Cleaning, Data Transformation, Data Integration, ETL Processes, Data Pipelines",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Machine Learning Algorithms, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Ensemble Methods, Model Evaluation, Hyperparameter Tuning",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Deep Learning Frameworks, TensorFlow, Proficiency in PyTorch, Keras, Hugging Face Transformers, Fastai, Caffe, Theano",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Natural Language Processing (NLP), Text Classification, Sentiment Analysis, Named Entity Recognition, Topic Modeling, Language Translation, Chatbot Development",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Computer Vision, Image Classification, Object Detection, Image Segmentation, Facial Recognition, Optical Character Recognition (OCR), Augmented Reality",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Big Data Technologies, Apache Hadoop, Apache Spark, Apache Hive, Apache Pig, Apache HBase, Apache Kafka, Apache Flink, Data Lakes",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Cloud Platforms, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Cloud Storage Solutions, Cloud Security, Serverless Architecture",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Data Visualization Tools, Tableau, Power BI, QlikView, D3.js, Plotly, Bokeh, Matplotlib, Seaborn, Data Storytelling, Interactive Dashboards",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Statistical Analysis, Hypothesis Testing, Regression Analysis, Time Series Analysis, Bayesian Statistics, A/B Testing, Experimental Design, Survival Analysis",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI Ethics, Fairness in AI, Bias Mitigation, Privacy-Preserving Techniques, Responsible AI, Ethical AI Frameworks, Hugging Face Transformers, AI Regulations",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "MLOps, Model Deployment, Containerization, Docker, Kubernetes, CI/CD Pipelines, Version Control with Git, Automated Testing, Monitoring and Logging",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Robotic Process Automation (RPA), Intelligent Automation, AI-Driven Workflows, Hugging Face Transformers, AI Bots, Virtual Assistants, Chatbots, Conversational AI",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "IoT Data Analysis, Edge Computing, Real-Time Data Processing, Streaming Analytics, Sensor Data Integration, Predictive Maintenance, Industrial AI",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Blockchain for AI, Decentralized AI, Federated Learning, Differential Privacy, Homomorphic Encryption, Hugging Face Transformers, AI in Cybersecurity",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Healthcare, Precision Medicine, Medical Imaging Analysis, Drug Discovery, Clinical Trial Optimization, Patient Outcome Prediction, Healthcare Data Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Finance, Fraud Detection, Credit Scoring, Algorithmic Trading, Risk Management, Portfolio Optimization, Financial Forecasting, Regulatory Compliance",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Retail, Customer Segmentation, Personalized Recommendations, Inventory Optimization, Demand Forecasting, Hugging Face Transformers, Customer Churn Prediction, Sentiment Analysis",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Manufacturing, Predictive Maintenance, Quality Control, Hugging Face Transformers, Demand Planning, Inventory Management, Production Scheduling, Yield Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Customer Service, Customer Support Automation, Sentiment Analysis, Customer Feedback Analysis, Customer Lifetime Value Prediction, Customer Segmentation, Churn Prediction",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Marketing, Customer Segmentation, Targeted Advertising, Campaign Optimization, Customer Lifetime Value, Churn Prediction, Sentiment Analysis, Social Media Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Human Resources, Candidate Screening, Employee Performance Prediction, Employee Retention, Sentiment Analysis, Workforce Planning, Talent Acquisition, Employee Engagement",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Education, Personalized Learning, Student Performance Prediction, Curriculum Recommendations, Adaptive Testing, Intelligent Tutoring Systems, Educational Data Mining",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Transportation, Route Optimization, Predictive Maintenance, Traffic Prediction, Autonomous Vehicles, Fleet Management, Demand Forecasting, Supply Chain Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Agriculture, Precision Farming, Crop Yield Prediction, Disease Detection, Soil Analysis, Livestock Management, Weather Forecasting, Supply Chain Optimization",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Energy, Energy Demand Forecasting, Renewable Energy Integration, Grid Optimization, Predictive Maintenance, Energy Trading, Smart Meter Analytics, Energy Efficiency",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Environmental Science, Climate Modeling, Wildlife Conservation, Air Quality Prediction, Water Resource Management, Natural Disaster Prediction, Sustainability Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Media and Entertainment, Content Recommendation, Sentiment Analysis, Audience Segmentation, Box Office Prediction, Social Media Analytics, Content Generation, Personalized Advertising",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Public Sector, Policy Analysis, Citizen Sentiment Analysis, Fraud Detection, Public Safety, Smart Cities, Urban Planning, Traffic Management",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Sports, Player Performance Analysis, Injury Prediction, Game Strategy Optimization, Fan Engagement, Ticket Pricing, Social Media Analytics, Broadcasting Analytics",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "AI in Real Estate, Property Valuation, Market Trend Analysis, Customer Segmentation, Lead Scoring, Predictive Maintenance, Energy Efficiency, Smart Building Management",
+        "label": "Data Science & AI"
+    },
+    {
+        "text": "Java, Spring Boot, Microservices, RESTful APIs, Hibernate",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Rust, GO, OOP, AWS, Docker",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "JavaScript, React, Redux, Node.js, Express.js",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "C#, .NET Core, ASP.NET, Entity Framework, LINQ",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "SQL, PostgreSQL, MySQL, Oracle, SQL Server",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "NoSQL, MongoDB, Cassandra, Redis, DynamoDB",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "DevOps, Jenkins, Docker, Kubernetes, Ansible",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Cloud Computing, AWS, Azure, Google Cloud, Terraform",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "CI/CD, Git, GitHub, GitLab, Bitbucket",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Agile, Scrum, Kanban, JIRA, Confluence",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Testing, Selenium, JUnit, TestNG, Cypress",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Mobile Development, Swift, Kotlin, React Native, Flutter",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Java proficiency, C#, Git, React, AWS",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Big Data, Hadoop, Spark, Kafka, Hive",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Cybersecurity, Penetration Testing, OWASP, Nessus, Metasploit",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Blockchain, Ethereum, Hyperledger, Solidity, Smart Contracts",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Object-oriented programming, Docker, Java, C#, Node.js",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Robotic Process Automation, UiPath, Blue Prism, Automation Anywhere",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Internet of Things, MQTT, CoAP, Zigbee, LoRaWAN",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Augmented Reality, Virtual Reality, Unity, Unreal Engine, ARKit",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Web Development, HTML5, CSS3, SASS, Bootstrap",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Version Control, SVN, Mercurial, Perforce, CVS",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Project Management, MS Project, Trello, Asana, Basecamp",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "OOP, Rust, Java, QlikView, Looker",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Data Warehousing, ETL, Informatica, Talend, Apache Nifi",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "API Management, Apigee, Mulesoft, Postman, Swagger",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Serverless Computing, AWS Lambda, Azure Functions, Google Cloud Functions",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Containerization, Docker Swarm, OpenShift, Rancher, Mesos",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Monitoring, Prometheus, Grafana, Nagios, Zabbix",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Configuration Management, Puppet, Chef, SaltStack, CFEngine",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Rust, Actix, Diesel, Rocket, Warp",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Go, Gin, Beego, GORM, Revel",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Elixir, Phoenix, Ecto, Absinthe, Nerves",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Scala, Akka, Play Framework, Slick, Lift",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Ruby, Ruby on Rails, Sinatra, Hanami, Padrino",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "TypeScript, Angular, Vue.js, Svelte, Next.js",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "PHP, Laravel, Symfony, Zend Framework, Phalcon",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Perl, Dancer, Catalyst, Mojolicious, DBIx::Class",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Shell Scripting, Bash, Zsh, Fish, KornShell",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Erlang, OTP, Cowboy, Mnesia, RabbitMQ",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Objective-C, Cocoa Touch, Core Data, UIKit, AVFoundation",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Groovy, Grails, Gradle, Spock, Ratpack",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "ColdFusion, CFScript, Lucee, Adobe ColdFusion, Fusebox",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Haskell, GHC, Yesod, Snap, Servant",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Clojure, Leiningen, Ring, Compojure, Pedestal",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "MATLAB, Simulink, Stateflow, Embedded Coder, Polyspace",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "R, Shiny, Tidyverse, ggplot2, RMarkdown",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Julia, Flux.jl, DataFrames.jl, JuMP.jl, Genie.jl",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Fortran, Intel Fortran, GFortran, OpenMP, Coarray Fortran",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "COBOL, JCL, CICS, DB2, IMS",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Ada, GNAT, SPARK, Ravenscar, AdaCore",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "LabVIEW, NI LabVIEW, NI TestStand, NI VeriStand, NI CompactRIO",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Qt, QML, Qt Creator, Qt Designer, Qt Quick",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Lua, LÖVE, OpenResty, Redis Lua, Corona SDK",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Golang, Gorilla Mux, Echo, Ginkgo, Gomega",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "F#, Fable, SAFE Stack, Giraffe, Suave",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Pascal, Delphi, Lazarus, Free Pascal, Oxygene",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "Prolog, SWI-Prolog, GNU Prolog, ECLiPSe, YAP",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "VB.NET, Visual Studio, WPF, WinForms, ASP.NET MVC",
+        "label": "IT Software Engineering"
+    },
+    {
+        "text": "ActionScript, Adobe Flash, Apache Flex, Starling Framework, Away3D",
+        "label": "IT Software Engineering"
+    }
+
+]
+
+    
+
+    
