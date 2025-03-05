@@ -9,4 +9,4 @@ There are four distinct IT department, where a possible candidate can be selecte
 
 The model was fine-tuned from DistilBERT on a relatively small LLM generated dataset(https://huggingface.co/datasets/staswo86/skill_based_department_classification_dataset).
 
-The detailed information about the model, dataset, and demo implemented via Gradio is publicly available on my Hugging Face profile https://huggingface.co/staswo86.
+The detailed information about the model (skill_based_department_classifier-distilbert-base-uncased), dataset (skill_based_department_classification_dataset), and demo (Skill based department Classifier) implemented via Gradio is publicly available on my Hugging Face profile https://huggingface.co/staswo86.
